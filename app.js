@@ -9,6 +9,8 @@ var index = require('./routes/index');
 var users = require('./routes/users');
 var template=require('art-template');
 
+//刚从git下载的
+
 var app = express();
 // app.route('')
 // express.Router();
